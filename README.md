@@ -1,4 +1,6 @@
 # hello-world
 just random stuff
 
-this is all very overwhelming but i shall figure it out
+this is all very overwhelming but i shall figure it out...
+i'm just gonna use this as a place where i can put projects that I'm working on...
+very new to coding, currently learning Python so if my code sucks that's why!
